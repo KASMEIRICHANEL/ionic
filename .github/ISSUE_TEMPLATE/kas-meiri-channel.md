@@ -1,5 +1,5 @@
 ---
-name: Support Question
+name: Kas-meiri Channel
 about: Question on how to use this project
 
 ---
